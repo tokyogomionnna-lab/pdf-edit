@@ -1,0 +1,32 @@
+{
+  "name": "PDFページ整理エディタ（オフライン版）",
+  "short_name": "PDF整理",
+  "description": "PDFのページ並べ替え・回転・削除・注釈をオフラインで行う単一ファイルエディタ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a141d",
+  "theme_color": "#0a141d",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
